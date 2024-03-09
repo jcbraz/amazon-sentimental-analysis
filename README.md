@@ -8,12 +8,17 @@
 3. Run
    
     ```bash
+    python3 -m venv .venv
+    ```
+4. Run
+   
+    ```bash
     source .venv/bin/activate
     ```
-4. Install dependencies
+5. Install dependencies
    
     ```bash
     pip3 install -r requirements.txt
     ```
-5. Open the notebook on vscode and select the .venv kernel
-6. Done! You can now run the notebook and reproduce the development environment
+6. Open the notebook on vscode and select the .venv kernel
+7. Done! You can now run the notebook and reproduce the development environment
