@@ -1,5 +1,10 @@
 # tm-project
 
+## TODO
+
+- [ ] Cross validation in TF-IDF vectorization & Logistic Regression
+- [ ] Accuracy Improvement
+- [ ] Task Number 14
 
 ## Reproduce development environment
 
