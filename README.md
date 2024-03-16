@@ -2,9 +2,12 @@
 
 ## TODO
 
-- [ ] Cross validation in TF-IDF vectorization & Logistic Regression
-- [ ] Accuracy Improvement
-- [ ] Task Number 14
+- [x] Cross validation in TF-IDF vectorization & Logistic Regression
+- [x] Accuracy Improvement
+- [x] Task Number 14
+- [ ] Check other metrics (F1-score, Precision, Recall)
+  
+#### Side Note: Even if two models have the same overall accuracy, they can make errors on different instances. The chi-square test checks whether the distribution of errors is independent for the two models. A p-value close to zero suggests that the errors are not distributed independently, meaning the models tend to make errors on different subsets of the data.
 
 ## Reproduce development environment
 
